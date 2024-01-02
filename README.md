@@ -58,7 +58,7 @@ All google packages can be download from https://www.nuget.org/.
 ## Using it	
 - sample built on Microsoft Visual Studio 2022
 - .NET Framework 4.8.
-- just build and execuite it is a sample console app.
+- just build and execuite the sample console app.
 - can be used for scheduling.
 
 ## reference url 
